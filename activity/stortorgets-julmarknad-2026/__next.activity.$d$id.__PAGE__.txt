@@ -1,0 +1,37 @@
+1:"$Sreact.fragment"
+2:"/toddler-days-site/_next/static/chunks/3qfy96eoyh-ek.js"
+3:"/toddler-days-site/_next/static/chunks/1516u08fph4ot.js"
+4:"/toddler-days-site/_next/static/chunks/0-x9zwuilt9gj.js"
+5:I[41447,["$2","$3","$4"],"AppProvider"]
+6:I[84834,["$2","$3","$4"],"Nav"]
+7:I[39756,["$2","$3","$4"],"default"]
+8:I[37457,["$2","$3","$4"],"default"]
+11:"$Sreact.suspense"
+12:"/toddler-days-site/_next/static/chunks/0xj9sj9ap-c0k.js"
+13:"/toddler-days-site/_next/static/chunks/2c_77vbae_l-r.js"
+14:I[54172,["$2","$3","$4","$12","$13"],"DetailClient"]
+17:"ViewportBoundary"
+18:I[97367,["$2","$3","$4"],"$17"]
+19:"MetadataBoundary"
+1a:I[97367,["$2","$3","$4"],"$19"]
+1b:I[27201,["$2","$3","$4"],"IconMark"]
+:HL["/toddler-days-site/_next/static/chunks/3-libw9zjo4-j.css","style"]
+a:X
+d:X
+d:C
+10:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$11",null,{"fallback":["$","div",null,{"className":"h-64 animate-pulse rounded-2xl bg-paper"}],"children":["$","$L14",null,{"activity":{"id":"stortorgets-julmarknad-2026","title":"Stortorgets julmarknad","titleEn":"Christmas market at Stortorget, Gamla stan","description":"Julmarknad på Stortorget i Gamla stan med cirka 44 stånd med godis, hantverk, keramik och mat. Öppen dagligen 21 november–23 december 2026.","summaryEn":"Old Town Christmas market, daily 21 Nov–23 Dec 2026; Sun–Thu 11–18, Fri–Sat 11–19.","whyToddlers":"Kort, gratis julupplevelse i stan som går att besöka när som helst under perioden; inga barnaktiviteter nämns.","categories":["seasonal","outdoors"],"tags":["christmas","market"],"activityType":"scheduled_event","address":"Stortorget, Gamla stan, Stockholm","municipality":"Stockholm","area":"stockholm","lat":59.325,"lng":18.07082,"startDateTime":"2026-11-21T11:00:00+01:00","endDateTime":"2026-12-23T18:00:00+01:00","openingHours":{"text":"Sön–tor 11–18, fre–lör 11–19","verified":true},"indoorOutdoor":"outdoor","durationMinutes":45,"price":{"amount":0,"currency":"SEK","level":"free","notes":"Ingen entré nämns; marknadsplats på öppet torg"},"sourceId":"stortorgets-julmarknad","sourceName":"Stortorgets julmarknad","sourceUrl":"https://www.stortorgetsjulmarknad.com/","lastVerifiedAt":"2026-11-25","verificationStatus":"confirmed","operator":"private","facilities":{},"ratings":{"value":{"score":5,"kind":"editorial","reason":"Gratis att gå runt"},"weather":{"score":2,"kind":"editorial","reason":"Utomhus"}}},"source":{"id":"stortorgets-julmarknad","name":"Stortorgets julmarknad","website":"https://www.stortorgetsjulmarknad.com/","ingestion":"manual","area":"stockholm","group":"organiser","categories":["seasonal"],"official":true,"lastCheckedAt":"2026-11-25"},"hosted":[]}]}],[["$","script","script-0",{"src":"/toddler-days-site/_next/static/chunks/0xj9sj9ap-c0k.js","async":true}],["$","script","script-1",{"src":"/toddler-days-site/_next/static/chunks/2c_77vbae_l-r.js","async":true}]],"$L15"]}],"p":"$@16","v":null,"s":"$a"}}]]
+e:[["children",{"s":{"n":"id","t":"d","k":"stortorgets-julmarknad-2026","s":[]},"h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@f","v":"$d","s":"$a"},"c":"$Q10"}]]
+b:[["children",{"s":"activity","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@c","v":"$d","s":"$a"},"c":"$Qe"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/toddler-days-site/_next/static/chunks/3-libw9zjo4-j.css","precedence":"next"}],["$","script","script-0",{"src":"/toddler-days-site/_next/static/chunks/3qfy96eoyh-ek.js","async":true}],["$","script","script-1",{"src":"/toddler-days-site/_next/static/chunks/1516u08fph4ot.js","async":true}],["$","script","script-2",{"src":"/toddler-days-site/_next/static/chunks/0-x9zwuilt9gj.js","async":true}]],["$","html",null,{"lang":"sv","className":"B1owkq_variable Xl5FhW_variable","children":["$","body",null,{"className":"min-h-dvh antialiased","children":["$","$L5",null,{"children":[["$","$L6",null,{}],["$","main",null,{"className":"mx-auto w-full max-w-5xl px-4 pb-28 pt-4 md:pb-12","children":["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]]}]}]}]]}],"p":"$@9","v":null,"s":"$a"},"c":"$Qb"},"h":{"r":["$","$1","h",{"children":[null,["$","$L18",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#2f5d50"}]]}],["$","$L1a",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$11",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Stortorgets julmarknad · Småbarnsdagar"}],["$","meta","1",{"name":"description","content":"Hitta roliga, åldersanpassade aktiviteter för tvååringar i Haninge och Stockholm."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/toddler-days-site/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}],["$","$L1b","4",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1c","v":null,"s":"$a"}},"a":"$@1d","u":"$@1e","b":"mXvvzP0O6zf1bNK7mmxCu"}
+1f:I[97367,["$2","$3","$4"],"OutletBoundary"]
+15:["$","$L1f",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@20"}]}]
+a:300
+20:null
+1e:true
+a:C
+1d:0
+f:"$undefined"
+c:"$undefined"
+9:"$undefined"
+1c:"$undefined"
+16:"$undefined"
